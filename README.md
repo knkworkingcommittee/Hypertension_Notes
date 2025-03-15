@@ -1,6 +1,6 @@
 # Hypertension_Notes
 # 📘 Hypertension - Chapter 1  
-**Published by DFC Working Committee**  
+**Published by DFC Working Committee Kankvali**  
 
 Welcome to the **first chapter on Hypertension**, published by the **DFC Working Committee**. This repository contains structured notes and resources to help you understand hypertension in a systematic and accessible way.  
 
