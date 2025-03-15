@@ -28,7 +28,4 @@ You can access the contents of this repository by clicking on the relevant chapt
 ### 📌 **How to Use the Notes Effectively:**  
 1. Click on the links above to open the markdown files.  
 2. Use GitHub’s preview mode to read directly online.  
-3. Download the repository for offline access using:  
-   ```sh
-   git clone https://github.com/YOUR-USERNAME/Hypertension_Notes.git
-   cd Hypertension_Notes
+
