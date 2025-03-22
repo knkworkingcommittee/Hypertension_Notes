@@ -24,7 +24,10 @@ You can access the contents of this repository by clicking on the relevant chapt
 📂  **[2. Story behind Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/2.%20Story%20Behind%20Hypertension.pdf)**
 📂 **[3. Types of blood pressure measuring instruments](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/3.%20Types%20of%20blood%20pressure%20measuring%20instruments.pdf)**
 📂 **[4. Antihypertensive drugs](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/4.%20Antihypertensive%20drugs.pdf)**
-📂 **[5. New Drug Therapy](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/5.%20NewDrugTherapy.pdf)**
+📂 **[5.Newer Drug Therapy](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/5.%20NewerDrugTherapy.pdf)**
+📂 **[6.Newer Modalities in Treatment](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/6.%20NewerModalitiesITreatment.pdf)**
+📂 **[7.Use of ECG in Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/7.%20UseOfECG.pdf)**
+📂 **[8.Precautions to take When starting anti hypertensive treatment](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/8.%20Precautions%20to%20Take%20When%20Starting%20Antihypertensive%20Treatment.pdf)**
 
 ### 📌 **How to Use the Notes Effectively:**  
 1. Click on the links above to open the markdown files.  
