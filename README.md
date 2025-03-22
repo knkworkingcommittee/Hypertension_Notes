@@ -50,6 +50,11 @@ You can access the contents of this repository by clicking on the relevant chapt
 
 📂 **[15.Role of Stress In The Pathophysiology Of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/15.%20RoleofStressInThePathophysiologyOfHypertension.pdf)**
 
+📂 **[16.Role of Ahar Nidra Brahmacharya](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/16.%20RoleofAharNidraBrahmacharya.pdf)**
+
+📂 **[17.Pathophysiology of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/17.%20Pathophysiology of Hypertension.pdf)**
+
+
 
 
 ### 📌 **How to Use the Notes Effectively:**  
