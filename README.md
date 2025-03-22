@@ -30,11 +30,11 @@ You can access the contents of this repository by clicking on the relevant chapt
 📂 **[8.Precautions to take When starting anti hypertensive treatment](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/8.%20Precautions%20to%20Take%20When%20Starting%20Antihypertensive%20Treatment.pdf)**
 📂 **[9.Tips for General Practitioners](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/9.%20Tips%20for%20General%20Practitioners.pdf)**
 📂 **[10.Precautions to take When atrting antihertensive Treatment](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/10.%20PrecautionsTakeWhenStartingAntihypertensiveTreatment.pdf)**
-📂 **[11.Exercise Guidelines For Hypertensive Patients](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main11.%20ExerciseGuidelinesForHypertensivePatients.pdf)**
-📂 **[12.Dietary Requirements For Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main12.%20DietaryRequirementsForHypertension.pdf)**
-📂 **[13.Role Of Physician](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main13.%20RoleOfPhysician.pdf)**
-📂 **[14.Sleep Requirement Of Hypertwnsive Patient](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main14.%20SleepRequirementOfHypertwnsivePatient.pdf)**
-📂 **[15.Role of Stress In The Pathophysiology Of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main15.%20RoleofStressInThePathophysiologyOfHypertension.pdf)**
+📂 **[11.Exercise Guidelines For Hypertensive Patients](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/11.%20ExerciseGuidelinesForHypertensivePatients.pdf)**
+📂 **[12.Dietary Requirements For Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/12.%20DietaryRequirementsForHypertension.pdf)**
+📂 **[13.Role Of Physician](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/13.%20RoleOfPhysician.pdf)**
+📂 **[14.Sleep Requirement Of Hypertwnsive Patient](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/14.%20SleepRequirementOfHypertwnsivePatient.pdf)**
+📂 **[15.Role of Stress In The Pathophysiology Of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/15.%20RoleofStressInThePathophysiologyOfHypertension.pdf)**
 
 ### 📌 **How to Use the Notes Effectively:**  
 1. Click on the links above to open the markdown files.  
