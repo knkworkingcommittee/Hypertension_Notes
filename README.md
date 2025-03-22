@@ -21,7 +21,7 @@ Hypertension (High Blood Pressure) is a chronic medical condition where the **bl
 You can access the contents of this repository by clicking on the relevant chapter links below:  
 
 📂 **[1. BasicsOfHypertension.pdf](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/1.%20BasicsOfHypertension.pdf)**
-📂  
+📂  **[2. Story behind Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/raw/refs/heads/main/2.%20Story%20Behind%20Hypertension.docx)**
 📂 
 
 ### 📌 **How to Use the Notes Effectively:**  
