@@ -22,7 +22,7 @@ You can access the contents of this repository by clicking on the relevant chapt
 
 📂 **[1. BasicsOfHypertension.pdf](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/1.%20BasicsOfHypertension.pdf)**
 📂  **[2. Story behind Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/2.%20Story%20Behind%20Hypertension.pdf)**
-📂 
+📂 **[3. Types of blood pressure measuring instruments](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/2.%20Types%20of%20blood%20pressure%20measuring%20instruments.pdf)**
 
 ### 📌 **How to Use the Notes Effectively:**  
 1. Click on the links above to open the markdown files.  
