@@ -24,6 +24,7 @@ You can access the contents of this repository by clicking on the relevant chapt
 📂  **[2. Story behind Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/2.%20Story%20Behind%20Hypertension.pdf)**
 📂 **[3. Types of blood pressure measuring instruments](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/3.%20Types%20of%20blood%20pressure%20measuring%20instruments.pdf)**
 📂 **[4. Antihypertensive drugs](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/4.%20Antihypertensive%20drugs.pdf)**
+📂 **[5. New Drug Therapy](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/5.%20NewDrugTherapy.pdf)**
 
 ### 📌 **How to Use the Notes Effectively:**  
 1. Click on the links above to open the markdown files.  
