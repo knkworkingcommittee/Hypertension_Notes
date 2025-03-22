@@ -20,7 +20,7 @@ Hypertension (High Blood Pressure) is a chronic medical condition where the **bl
 ## 📖 **How to Read & Access the Notes**  
 You can access the contents of this repository by clicking on the relevant chapter links below:  
 
-📂 **(1. Basics of Hypertension.pdf)**
+📂 **[1. BasicsOfHypertension.pdf](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/1.%20BasicsOfHypertension.pdf)**
 📂 **[Introduction Hypertension ](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/1%20Hypertension.pdf)**  
 📂 **[Causes & Risk Factors](./Basics/Causes.md)**  
 📂 **[Symptoms & Diagnosis](./Basics/Symptoms.md)**  
