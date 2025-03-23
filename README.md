@@ -2,7 +2,7 @@
 Greetings,
 
 The Doctors Fraternity Club Sindhudurg (DFC) is an organization of medical professionals that brings together practitioners from various medical fields, including Allopathy, Ayurveda, Homeopathy, and Dentistry. This platform not only facilitates continuous knowledge enhancement but also encourages doctors to nurture their artistic and sports talents alongside their medical practice. Throughout the year, the organization conducts ten CMEs on various topics, organizes a cultural evening with participation from nearly 700 doctors, and hosts indoor and outdoor games, as well as personal and social fitness initiatives. 
-
+</p>
 We believe that this is perhaps the only organization in Maharashtra, and possibly in India, where doctors from all medical disciplines come together in such large numbers to exchange knowledge and showcase their artistic talents.
 
 Allopathy, Ayurveda, and Homeopathy are built upon distinct theoretical foundations, each with its own fundamental scientific principles forming the basis of its medical practice. As a result, the diagnostic methods and treatment approaches vary among different systems of medicine. However, every pathy has its own limitations, and it is through collaboration among these disciplines that we can explore integrative approaches for the betterment of patients.
