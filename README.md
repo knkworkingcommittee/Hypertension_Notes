@@ -20,8 +20,6 @@ DFC,Working committee,2025.
 Welcome to the **first chapter on Hypertension**, published by the **DFC Working Committee**. This repository contains structured notes and resources to help you understand hypertension in a systematic and accessible way.  
   
 
----
-
 ## 📖 **How to Read & Access the Notes**  
 You can access the contents of this repository by clicking on the relevant chapter links below:  
 
