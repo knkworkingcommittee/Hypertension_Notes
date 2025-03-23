@@ -12,6 +12,7 @@ Homeopathy and Ayurveda practitioners often receive training in the basic princi
 To address this gap, the Kankavli Organizing Committee has decided that for each CME topic, we will compile comprehensive documentation from the perspective of all medical disciplines and create a digital booklet . This booklet will serve as a detailed scientific resource, ensuring that fundamental principles and subject-specific information are thoroughly conveyed. This initiative not only enhances understanding across different medical systems but also contributes to the creation of a valuable repository of medical knowledge 
 </p>
 Scientific committee,
+
 DFC,Working committee,2025.
 
 # Hypertension_Notes
