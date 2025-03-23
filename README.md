@@ -1,8 +1,8 @@
-</p style="text-align: justify;">
+
 Greetings,
 
-The Doctors Fraternity Club Sindhudurg (DFC) is an organization of medical professionals that brings together practitioners from various medical fields, including Allopathy, Ayurveda, Homeopathy, and Dentistry. This platform not only facilitates continuous knowledge enhancement but also encourages doctors to nurture their artistic and sports talents alongside their medical practice. Throughout the year, the organization conducts ten CMEs on various topics, organizes a cultural evening with participation from nearly 700 doctors, and hosts indoor and outdoor games, as well as personal and social fitness initiatives. 
-</p>
+The Doctors Fraternity Club Sindhudurg (DFC) is an organization of medical professionals that brings together practitioners from various medical fields, including Allopathy, Ayurveda, Homeopathy, and Dentistry. This platform not only facilitates continuous knowledge enhancement but also encourages doctors to nurture their artistic and sports talents alongside their medical practice. Throughout the year, the organization conducts ten CMEs on various topics, organizes a cultural evening with participation from nearly 700 doctors, and hosts indoor and outdoor games, as well as personal and social fitness initiatives.
+
 We believe that this is perhaps the only organization in Maharashtra, and possibly in India, where doctors from all medical disciplines come together in such large numbers to exchange knowledge and showcase their artistic talents.
 
 Allopathy, Ayurveda, and Homeopathy are built upon distinct theoretical foundations, each with its own fundamental scientific principles forming the basis of its medical practice. As a result, the diagnostic methods and treatment approaches vary among different systems of medicine. However, every pathy has its own limitations, and it is through collaboration among these disciplines that we can explore integrative approaches for the betterment of patients.
@@ -10,7 +10,7 @@ Allopathy, Ayurveda, and Homeopathy are built upon distinct theoretical foundati
 Homeopathy and Ayurveda practitioners often receive training in the basic principles of Allopathy , making it easier for them to understand its concepts. However, Allopathic doctors generally lack knowledge of Ayurveda and Homeopathy’s fundamental theories, which makes it challenging for them to comprehend the diagnostic and treatment methods used in these fields. Consequently, during a CME event, when Ayurveda or Homeopathy is given some time, a significant portion of it is spent explaining their fundamental concepts.
 
 To address this gap, the Kankavli Organizing Committee has decided that for each CME topic, we will compile comprehensive documentation from the perspective of all medical disciplines and create a digital booklet . This booklet will serve as a detailed scientific resource, ensuring that fundamental principles and subject-specific information are thoroughly conveyed. This initiative not only enhances understanding across different medical systems but also contributes to the creation of a valuable repository of medical knowledge 
-</p>
+
 Scientific committee,
 
 DFC,Working committee,2025.
