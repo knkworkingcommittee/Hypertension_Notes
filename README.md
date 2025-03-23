@@ -1,4 +1,4 @@
-<p style="text-align: justify;">
+</p style="text-align: justify;">
 Greetings,
 
 The Doctors Fraternity Club Sindhudurg (DFC) is an organization of medical professionals that brings together practitioners from various medical fields, including Allopathy, Ayurveda, Homeopathy, and Dentistry. This platform not only facilitates continuous knowledge enhancement but also encourages doctors to nurture their artistic and sports talents alongside their medical practice. Throughout the year, the organization conducts ten CMEs on various topics, organizes a cultural evening with participation from nearly 700 doctors, and hosts indoor and outdoor games, as well as personal and social fitness initiatives. 
