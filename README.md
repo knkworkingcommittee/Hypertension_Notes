@@ -48,7 +48,7 @@ You can access the contents of this repository by clicking on the relevant chapt
 
 📂 **[8.2D cho and Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/8.%20TwoDchoAndHypertension.pdf)**
 
-
+📂 **[9. How to take BP](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/BPMeasurement.jpg)**
 
 📂 **[10. Antihypertensive drugs](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/4.%20Antihypertensive%20drugs.pdf)**
 
