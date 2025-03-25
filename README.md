@@ -48,35 +48,27 @@ You can access the contents of this repository by clicking on the relevant chapt
 
 📂 **[8.2D cho and Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/8.%20TwoDchoAndHypertension.pdf)**
 
-📂 **[4. Antihypertensive drugs](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/4.%20Antihypertensive%20drugs.pdf)**
-
-📂 **[5. Investigations in Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/17.%20Pathophysiology%20of%20Hypertension.pdf)**
-
-📂 **[5.Newer Drug Therapy](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/5.%20NewerDrugTherapy.pdf)**
-
-📂 **[6.Newer Modalities in Treatment](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/6.%20NewerModalitiesITreatment.pdf)**
 
 
+📂 **[10. Antihypertensive drugs](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/4.%20Antihypertensive%20drugs.pdf)**
 
-📂 **[8.Precautions to take When starting anti hypertensive treatment](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/8.%20Precautions%20to%20Take%20When%20Starting%20Antihypertensive%20Treatment.pdf)**
+📂 **[11.Newer Drug Therapy](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/5.%20NewerDrugTherapy.pdf)**
 
-📂 **[9.Tips for General Practitioners](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/9.%20Tips%20for%20General%20Practitioners.pdf)**
-
-📂 **[10.Precautions to take When atrting antihertensive Treatment](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/10.%20PrecautionsTakeWhenStartingAntihypertensiveTreatment.pdf)**
-
-📂 **[11.Exercise Guidelines For Hypertensive Patients](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/11.%20ExerciseGuidelinesForHypertensivePatients.pdf)**
-
-📂 **[12.Dietary Requirements For Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/12.%20DietaryRequirementsForHypertension.pdf)**
-
-📂 **[13.Role Of Physician](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/13.%20RoleOfPhysician.pdf)**
-
-📂 **[14.Sleep Requirement Of Hypertwnsive Patient](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/14.%20SleepRequirementOfHypertwnsivePatient.pdf)**
-
-📂 **[15.Role of Stress In The Pathophysiology Of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/15.%20RoleofStressInThePathophysiologyOfHypertension.pdf)**
-
-📂 **[16.Role of Ahar Nidra Brahmacharya](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/16.%20RoleofAharNidraBrahmacharya.pdf)**
+📂 **[12.Newer Modalities in Treatment](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/6.%20NewerModalitiesITreatment.pdf)**
 
 
+
+📂 **14.Precautions to take When starting anti hypertensive treatment](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/8.%20Precautions%20to%20Take%20When%20Starting%20Antihypertensive%20Treatment.pdf)**
+
+📂 **[15.Tips for General Practitioners](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/9.%20Tips%20for%20General%20Practitioners.pdf)**
+
+📂 **[16.Dietary Requirements For Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/12.%20DietaryRequirementsForHypertension.pdf)**
+
+📂 **[17.Sleep Requirement Of Hypertwnsive Patient](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/14.%20SleepRequirementOfHypertwnsivePatient.pdf)**
+
+📂 **[18.Role Of Physician](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/13.%20RoleOfPhysician.pdf)**
+
+📂 **[10.Precautions to take When starting antihertensive Treatment](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/10.%20PrecautionsTakeWhenStartingAntihypertensiveTreatment.pdf)**
 
 
 
