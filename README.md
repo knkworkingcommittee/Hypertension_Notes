@@ -58,7 +58,7 @@ You can access the contents of this repository by clicking on the relevant chapt
 
 
 
-📂 **14.Precautions to take When starting anti hypertensive treatment](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/8.%20Precautions%20to%20Take%20When%20Starting%20Antihypertensive%20Treatment.pdf)**
+📂 **[14.Precautions to take When starting anti hypertensive treatment](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/8.%20PrecautionsAntiHypertensiveTreatment.pdf)**
 
 📂 **[15.Tips for General Practitioners](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/9.%20Tips%20for%20General%20Practitioners.pdf)**
 
