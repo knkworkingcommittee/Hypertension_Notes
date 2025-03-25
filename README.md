@@ -46,7 +46,7 @@ You can access the contents of this repository by clicking on the relevant chapt
 
 📂 **[7.ECG and Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/7.%20UseOfECG.pdf)**
 
-📂 **[8.2D cho and Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/8.%202DchoAndHypertesion.pdf)**
+📂 **[8.2D cho and Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/8.%20TwoDchoAndHypertesion.pdf)**
 
 📂 **[4. Antihypertensive drugs](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/4.%20Antihypertensive%20drugs.pdf)**
 
