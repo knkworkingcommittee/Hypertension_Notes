@@ -68,7 +68,7 @@ You can access the contents of this repository by clicking on the relevant chapt
 
 📂 **[18.Role Of Physician](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/13.%20RoleOfPhysician.pdf)**
 
-📂 **[10.Precautions to take When starting antihertensive Treatment](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/10.%20PrecautionsTakeWhenStartingAntihypertensiveTreatment.pdf)**
+📂 **[19.Complications of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/10.%20PrecautionsTakeWhenStartingAntihypertensiveTreatment.pdf)**
 
 
 
