@@ -38,7 +38,11 @@ You can access the contents of this repository by clicking on the relevant chapt
 
 📂 **[3. Types of blood pressure measuring instruments](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/3.%20Types%20of%20blood%20pressure%20measuring%20instruments.pdf)**
 
+📂 **[4. Pathophysiology of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/17.%20Pathophysiology%20of%20Hypertension.pdf)**
+
 📂 **[4. Antihypertensive drugs](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/4.%20Antihypertensive%20drugs.pdf)**
+
+📂 **[5. Investigations in Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/17.%20Pathophysiology%20of%20Hypertension.pdf)**
 
 📂 **[5.Newer Drug Therapy](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/5.%20NewerDrugTherapy.pdf)**
 
@@ -64,7 +68,7 @@ You can access the contents of this repository by clicking on the relevant chapt
 
 📂 **[16.Role of Ahar Nidra Brahmacharya](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/16.%20RoleofAharNidraBrahmacharya.pdf)**
 
-📂 **[17.Pathophysiology of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/17.%20Pathophysiology%20of%20Hypertension.pdf)**
+
 
 
 
