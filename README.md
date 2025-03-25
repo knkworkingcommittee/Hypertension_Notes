@@ -42,6 +42,12 @@ You can access the contents of this repository by clicking on the relevant chapt
 
 📂 **[5. Investigations in Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/Investigations%20in%20Hypertension.jpg)**
 
+📂 **[6.Role of Stress In The Pathophysiology Of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/15.%20RoleofStressInThePathophysiologyOfHypertension.pdf)**
+
+📂 **[7.ECG and Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/7.%20UseOfECG.pdf)**
+
+📂 **[8.2D cho and Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/7.%20UseOfECG.pdf)**
+
 📂 **[4. Antihypertensive drugs](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/4.%20Antihypertensive%20drugs.pdf)**
 
 📂 **[5. Investigations in Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/17.%20Pathophysiology%20of%20Hypertension.pdf)**
@@ -50,7 +56,7 @@ You can access the contents of this repository by clicking on the relevant chapt
 
 📂 **[6.Newer Modalities in Treatment](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/6.%20NewerModalitiesITreatment.pdf)**
 
-📂 **[7.Use of ECG in Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/7.%20UseOfECG.pdf)**
+
 
 📂 **[8.Precautions to take When starting anti hypertensive treatment](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/8.%20Precautions%20to%20Take%20When%20Starting%20Antihypertensive%20Treatment.pdf)**
 
