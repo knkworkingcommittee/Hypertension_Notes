@@ -32,9 +32,9 @@ Welcome to the **first chapter on Hypertension**, published by the **DFC Working
 ## 📖 **How to Read & Access the Notes**  
 You can access the contents of this repository by clicking on the relevant chapter links below:  
 
-📂 **[1. BasicsOfHypertension.pdf](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/1.%20BasicsOfHypertension.pdf)**
+📂  **[1. Story behind Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/2.%20Story%20Behind%20Hypertension.pdf)**
 
-📂  **[2. Story behind Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/2.%20Story%20Behind%20Hypertension.pdf)**
+📂 **[2. BasicsOfHypertension.pdf](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/1.%20BasicsOfHypertension.pdf)**
 
 📂 **[3. Types of blood pressure measuring instruments](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/3.%20Types%20of%20blood%20pressure%20measuring%20instruments.pdf)**
 
