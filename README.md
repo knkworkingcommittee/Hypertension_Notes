@@ -70,6 +70,8 @@ You can access the contents of this repository by clicking on the relevant chapt
 
 📂 **[19.Complications of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/19.%20ComplecationsOfHypertension.pdf)**
 
+📂 **[20.Myths about Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/20.%Myths.pdf)**
+
 
 
 
