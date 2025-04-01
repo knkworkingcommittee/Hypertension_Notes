@@ -22,9 +22,9 @@ To address this gap, the Kankavli Organizing Committee has decided that for each
 
 This initiative not only enhances understanding across different medical systems but also contributes to the creation of a valuable repository of medical knowledge.
 
-Scientific committee,
+**Scientific committee,**
 
-DFC,Working committee,2025.
+**DFC,Working committee,Kankvali2025.**
 
 
 # 📘 Hypertension - A Comprehensive Guide  
