@@ -2,7 +2,8 @@
 Doctors Fraternity Club Sindhudurg (DFC)
 
 
-![1212](https://github.com/user-attachments/assets/3407b316-fa9d-402e-9965-c028bc0b8b3c)
+![image](https://github.com/user-attachments/assets/126fd1d7-a59f-4e3a-bf3a-d8a02d32cb43)
+
 
 The Doctors Fraternity Club Sindhudurg (DFC) is an organization of medical professionals that brings together practitioners from various medical fields, including Allopathy, Ayurveda, Homeopathy, and Dentistry. This platform not only facilitates continuous knowledge enhancement but also encourages doctors to nurture their artistic and sports talents alongside their medical practice.
 
