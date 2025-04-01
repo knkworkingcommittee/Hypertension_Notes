@@ -36,7 +36,7 @@ Welcome to the **first chapter on Hypertension**, published by the **DFC Working
 ## 📖 **How to Read & Access the Notes**  
 You can access the contents of this repository by clicking on the relevant chapter links below:  
 
-📂  **[1. Basics of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/1.%20Story%20Basics%20of%20Hypertension.pdf)**
+📂  **[1. Basics of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/1.%20Basics%20of%20Hypertension.pdf)**
 
 📂 **[2. BasicsOfHypertension.pdf](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/1.%20BasicsOfHypertension.pdf)**
 
