@@ -38,11 +38,11 @@ You can access the contents of this repository by clicking on the relevant chapt
 
 📂  **[1. Basics of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/1.%20Basics%20of%20Hypertension.pdf)**
 
-📂 **[2. BasicsOfHypertension.pdf](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/1.%20BasicsOfHypertension.pdf)**
+📂 **[2.Story Behind Hypertension.pdf](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/1.%20Story%20Behind%20Hypertension.pdf)**
 
-📂 **[3. Types of blood pressure measuring instruments](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/3.%20Types%20of%20blood%20pressure%20measuring%20instruments.pdf)**
+📂 **[3. Pathophysiology of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/3.%20Pathophysiology%20of%20Hypertension.pdf)**
 
-📂 **[4. Pathophysiology of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/17.%20Pathophysiology%20of%20Hypertension.pdf)**
+📂 **[4.Role of Stress In The Pathophysiology Of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/17.%20RoleofStressInThePathophysiologyOfHypertension.pdf)**
 
 📂 **[5. Investigations in Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/Investigations%20in%20Hypertension.jpg)**
 
