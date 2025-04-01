@@ -1,9 +1,8 @@
+**<h1>Doctors Fraternity Club Sindhudurg (DFC)</h1>**
+**<h1>Working Committee Kankvali</h1>**
+![image](https://github.com/user-attachments/assets/a0ba1279-f1b1-4687-a099-13a520dabc6d)
 
-Doctors Fraternity Club Sindhudurg (DFC)
-
-
-![image](https://github.com/user-attachments/assets/126fd1d7-a59f-4e3a-bf3a-d8a02d32cb43)
-
+**<h2>Preface</h2>**
 
 The Doctors Fraternity Club Sindhudurg (DFC) is an organization of medical professionals that brings together practitioners from various medical fields, including Allopathy, Ayurveda, Homeopathy, and Dentistry. This platform not only facilitates continuous knowledge enhancement but also encourages doctors to nurture their artistic and sports talents alongside their medical practice.
 
@@ -27,9 +26,9 @@ Scientific committee,
 
 DFC,Working committee,2025.
 
-# Hypertension_Notes
-# 📘 Hypertension - Chapter 1  
-**Published by DFC Working Committee Kankvali**  
+
+# 📘 Hypertension - A Comprehensive Guide  
+**<h2>Published by DFC Working Committee Kankvali</h2>**  
 
 Welcome to the **first chapter on Hypertension**, published by the **DFC Working Committee**. This repository contains structured notes and resources to help you understand hypertension in a systematic and accessible way.  
   
