@@ -44,7 +44,7 @@ You can access the contents of this repository by clicking on the relevant chapt
 
 📂 **[4.Role of Stress In The Pathophysiology Of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/4.%20RoleofStressInThePathophysiologyOfHypertension.pdf)**
 
-📂 **[5.Signs And Symptoms Of Hyepertension - Copy](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/5.%20SignsAndSymptomsOfHyepertension.pdf)**
+📂 **[5.Signs And Symptoms Of Hyepertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/5.%20SignsAndSymptomsOfHyepertension.pdf)**
 
 📂 **[6.Role of Stress In The Pathophysiology Of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/15.%20RoleofStressInThePathophysiologyOfHypertension.pdf)**
 
