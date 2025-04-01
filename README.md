@@ -1,6 +1,6 @@
 **<h1>Doctors Fraternity Club Sindhudurg (DFC)</h1>**
 **<h1>Working Committee Kankvali</h1>**
-![image](https://github.com/user-attachments/assets/a0ba1279-f1b1-4687-a099-13a520dabc6d)
+![Hypertension repository](https://github.com/user-attachments/assets/2b022541-950e-45f0-bcea-97597f336ac4)
 
 **<h2>Preface</h2>**
 
