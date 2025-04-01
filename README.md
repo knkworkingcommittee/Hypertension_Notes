@@ -44,17 +44,17 @@ You can access the contents of this repository by clicking on the relevant chapt
 
 📂 **[4.Role of Stress In The Pathophysiology Of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/4.%20RoleofStressInThePathophysiologyOfHypertension.pdf)**
 
-📂 **[5.Signs And Symptoms Of Hyepertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/5.%20SignsAndSymptomsOfHyepertension.pdf)**
+📂 **[5.Signs And Symptoms Of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/5.%20SignsAndSymptomsOfHyepertension.pdf)**
 
-📂 **[6.Role of Stress In The Pathophysiology Of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/15.%20RoleofStressInThePathophysiologyOfHypertension.pdf)**
+📂 **[6.How To Take BP](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/6.%20HowToTakeBP.pdf)**
 
-📂 **[7.ECG and Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/7.%20UseOfECG.pdf)**
+📂 **[7.Types of blood pressure measuring instruments](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/7.%20Types%20of%20blood%20pressure%20measuring%20instruments.pdf)**
 
-📂 **[8.2D cho and Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/8.%20TwoDchoAndHypertension.pdf)**
+📂 **[8.Investigations](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/8.%20Investigations.pdf)**
 
-📂 **[9. How to take BP](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/BP%20Measurement.jpg)**
+📂 **[9. ECG And Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/9.%20ECGAndHypertension.pdf)**
 
-📂 **[10. Antihypertensive drugs](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/4.%20Antihypertensive%20drugs.pdf)**
+📂 **[10. 2DEcho And Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/10.%202DEchoAndHypertension.pdf)**
 
 📂 **[11.Newer Drug Therapy](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/5.%20NewerDrugTherapy.pdf)**
 
