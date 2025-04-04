@@ -80,7 +80,9 @@ You can access the contents of this repository by clicking on the relevant chapt
 
 📂 **[22.Homoeopathic Perspective of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/22.%20Homoeopathic%20Perspective%20of%20Hypertension.pdf)**
 
+**<h2>AUDIO LINKS</h2>**
 
+🎵 **[3. Pathophysiology of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/3.%20Pathophysiology%20of%20Hypertension.mp3)**
 
 ### 📌 **How to Use the Notes Effectively:**  
 1. Click on the links above to open the markdown files.  
