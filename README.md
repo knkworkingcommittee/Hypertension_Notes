@@ -84,7 +84,9 @@ You can access the contents of this repository by clicking on the relevant chapt
 
 **[🔊 Click BELOW  to play the MP3]**
 
-🎵 **[3. Pathophysiology of Hypertension][(https://drive.google.com/file/d/1KKGdIOBmkgniBD2gI0Rfv9yM7RT1BsHv/view?usp=drive_link)]**
+🎵 **[1. Basics of Hypertension >>>>>][(https://drive.google.com/file/d/1cBHyXXw0Tmvd_rNTgypwsdnlTUBavG8z/view?usp=drive_link)]** 
+
+🎵 **[3. Pathophysiology of Hypertension >>>>> ][(https://drive.google.com/file/d/1KKGdIOBmkgniBD2gI0Rfv9yM7RT1BsHv/view?usp=drive_link)]**
 
 ### 📌 **How to Use the Notes Effectively:**  
 1. Click on the links above to open the markdown files.  
