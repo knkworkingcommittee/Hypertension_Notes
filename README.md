@@ -82,7 +82,7 @@ You can access the contents of this repository by clicking on the relevant chapt
 
 **<h2>AUDIO LINKS</h2>**
 
-🎵 **[3. Pathophysiology of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/3.%20Pathophysiology%20of%20Hypertension.mp3)**
+🎵 **[3. Pathophysiology of Hypertension][(https://drive.google.com/file/d/1KKGdIOBmkgniBD2gI0Rfv9yM7RT1BsHv/view?usp=drive_link)]**
 
 ### 📌 **How to Use the Notes Effectively:**  
 1. Click on the links above to open the markdown files.  
