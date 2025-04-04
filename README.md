@@ -82,6 +82,8 @@ You can access the contents of this repository by clicking on the relevant chapt
 
 **<h2>AUDIO LINKS</h2>**
 
+**[🔊 Click BELOW  to play the MP3]**
+
 🎵 **[3. Pathophysiology of Hypertension][(https://drive.google.com/file/d/1KKGdIOBmkgniBD2gI0Rfv9yM7RT1BsHv/view?usp=drive_link)]**
 
 ### 📌 **How to Use the Notes Effectively:**  
