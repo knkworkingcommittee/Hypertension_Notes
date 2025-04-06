@@ -86,7 +86,15 @@ You can access the contents of this repository by clicking on the relevant chapt
 
 🎵 **[1. Basics of Hypertension >>>>>][(https://drive.google.com/file/d/1cBHyXXw0Tmvd_rNTgypwsdnlTUBavG8z/view?usp=drive_link)]** 
 
+🎵 **[2.Story Behind Hypertension.pdf>>>>>][(https://drive.google.com/file/d/1JNfWW4Jm-YQQdv03hQya_-kecswZYvgM/view?usp=drive_link)]**
+
 🎵 **[3. Pathophysiology of Hypertension >>>>> ][(https://drive.google.com/file/d/1KKGdIOBmkgniBD2gI0Rfv9yM7RT1BsHv/view?usp=drive_link)]**
+
+🎵 **[4.Role of Stress In The Pathophysiology Of Hypertension >>>>>] [(https://drive.google.com/file/d/1KKGdIOBmkgniBD2gI0Rfv9yM7RT1BsHv/view?usp=drive_link)]**
+
+🎵 **[5.Signs And Symptoms Of Hypertension >>>>>] [(https://drive.google.com/file/d/17UCy-Jx6wM8HT9z5iwRftBAhiHEA-TFm/view?usp=drive_link)]**
+
+🎵 **[6.How To Take BP >>>>>] [(https://drive.google.com/file/d/1a3vRSIDCNeqwAdqtjVWt7kiMucPjpuiu/view?usp=drive_link)]**
 
 ### 📌 **How to Use the Notes Effectively:**  
 1. Click on the links above to open the markdown files.  
