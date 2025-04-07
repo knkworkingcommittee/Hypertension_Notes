@@ -105,35 +105,49 @@ You can access the contents of this repository by clicking on the relevant chapt
 🎵 **[7.Types of blood pressure measuring instruments][(https://drive.google.com/file/d/1mDcmumZX2slSDa_BOstSRurkMVx73tRj/view?usp=drive_link)]**
 
 
-📂 **[8.Investigations](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/8.%20Investigations.pdf)**
+🎵 **[8.Investigations][(https://drive.google.com/file/d/1w_5484qXBBCByHybjRTa-mom_1Daoonf/view?usp=drive_link)]**
 
-📂 **[9. ECG And Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/9.%20ECGAndHypertension.pdf)**
 
-📂 **[10. 2DEcho And Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/10.%202DEchoAndHypertension.pdf)**
+🎵 **[9. ECG And Hypertension] [https://drive.google.com/file/d/1bxwwWgaUrHkXtyfBG2DQCmDLFXpKSoF2/view?usp=drive_link]**
 
-📂 **[11.Precautions to Take While Starting Antihypertensive Treatment](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/11.%20Precautions%20to%20Take%20While%20Starting%20Antihypertensive%20Treatment.pdf)**
 
-📂 **[12.Tips for General Practitioners](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/12.%20Tips%20for%20General%20Practitioners.pdf)**
+🎵 **[10. 2DEcho And Hypertension] [https://drive.google.com/file/d/1NKveSutc_KW2lI1e02_G7ylUxmVfu6Mo/view?usp=drive_link]**
 
-📂 **[13.Antihypertensive drugs](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/13.%20Antihypertensive%20drugs.pdf)**
 
-📂 **[14.Newer Drug Therapy](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/14.%20NewerDrugTherapy.pdf)**
+🎵 **[11.Precautions to Take While Starting Antihypertensive Treatment][https://drive.google.com/file/d/1Pb7kypB3qtOz9zj1abIadbDMfm4AWGM5/view?usp=drive_link]**
 
-📂 **[15.Newer Modalities In Treatment](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/15.%20NewerModalitiesInTreatment.pdf)**
 
-📂 **[16.Complications Of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/16.%20ComplecationsOfHypertension.pdf)**
+🎵 **[12.Tips for General Practitioners] [https://drive.google.com/file/d/1sWVXgXMorTm6E70k9dMzZkbtfEWPJ0MU/view?usp=drive_link]**
 
-📂 **[17.Role Of Physician](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/17.%20RoleOfPhysician.pdf)**
 
-📂 **[18.Dietary Requirements For Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/18.%20DietaryRequirementsForHypertension.pdf)**
+🎵 **[13.Antihypertensive drugs] [https://drive.google.com/file/d/1CwT2NYv9dC12M5bwCjnMKtO5tYjJyO0H/view?usp=drive_link]**
 
-📂 **[19.Sleep Requirement Of Hypertensive Patient](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/19.%20SleepRequirementOfHypertensivePatient.pdf)**
 
-📂 **[20.Myths about Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/20.%20Myths.pdf)**
+🎵 **[14.Newer Drug Therapy] [https://drive.google.com/file/d/1hh3EFodL0mR0sUJnhFttKGqZj0-Ih7Rg/view?usp=drive_link]**
 
-📂 **[21.Ayurvedic Perspective of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/21.%20Ayurvedic%20Perspective%20of%20Hypertension.pdf)**
 
-📂 **[22.Homoeopathic Perspective of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/22.%20Homoeopathic%20Perspective%20of%20Hypertension.pdf)**
+🎵 **[15.Newer Modalities In Treatment] [https://drive.google.com/file/d/1tcPCDNqWorUm6GC19mYjx53zDBPwB2R8/view?usp=drive_link]**
+
+
+🎵 **[16.Complications Of Hypertension] [https://drive.google.com/file/d/1eNvrJI0D2vRCV2-Gbn4darvUg1YZbcDJ/view?usp=drive_link]**
+
+
+🎵 **[17.Role Of Physician] [https://drive.google.com/file/d/1Y8C__kfEq6UT4ROkyBUK314FXDJT22Nv/view?usp=drive_link]**
+
+
+🎵 **[18.Dietary Requirements For Hypertension] [https://drive.google.com/file/d/1pKZo99SR426Fodwalph0ge2MGF4luSmt/view?usp=drive_link]**
+
+
+🎵 **[19.Sleep Requirement Of Hypertensive Patient] [https://drive.google.com/file/d/1U8PlpxOLXxujXK7T3lIDfGSukciHqClw/view?usp=drive_link]**
+
+
+🎵 **[20.Myths about Hypertension] [https://drive.google.com/file/d/1C38lHsU0MdZhsApOcVoQhY71LFcxb_3l/view?usp=drive_link]**
+
+
+🎵 **[21.Ayurvedic Perspective of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/21.%20Ayurvedic%20Perspective%20of%20Hypertension.pdf)**
+
+
+🎵 **[22.Homoeopathic Perspective of Hypertension] [https://drive.google.com/file/d/1_9jUlRq1TuqO34zK62u3cFXnD9FlwOrt/view?usp=drive_link]**
 
 
 
