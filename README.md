@@ -102,6 +102,40 @@ You can access the contents of this repository by clicking on the relevant chapt
 🎵 **[6.How To Take BP >>>>>] [(https://drive.google.com/file/d/1a3vRSIDCNeqwAdqtjVWt7kiMucPjpuiu/view?usp=drive_link)]**
 
 
+🎵 **[7.Types of blood pressure measuring instruments][(https://drive.google.com/file/d/1mDcmumZX2slSDa_BOstSRurkMVx73tRj/view?usp=drive_link)]**
+
+
+📂 **[8.Investigations](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/8.%20Investigations.pdf)**
+
+📂 **[9. ECG And Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/9.%20ECGAndHypertension.pdf)**
+
+📂 **[10. 2DEcho And Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/10.%202DEchoAndHypertension.pdf)**
+
+📂 **[11.Precautions to Take While Starting Antihypertensive Treatment](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/11.%20Precautions%20to%20Take%20While%20Starting%20Antihypertensive%20Treatment.pdf)**
+
+📂 **[12.Tips for General Practitioners](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/12.%20Tips%20for%20General%20Practitioners.pdf)**
+
+📂 **[13.Antihypertensive drugs](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/13.%20Antihypertensive%20drugs.pdf)**
+
+📂 **[14.Newer Drug Therapy](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/14.%20NewerDrugTherapy.pdf)**
+
+📂 **[15.Newer Modalities In Treatment](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/15.%20NewerModalitiesInTreatment.pdf)**
+
+📂 **[16.Complications Of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/16.%20ComplecationsOfHypertension.pdf)**
+
+📂 **[17.Role Of Physician](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/17.%20RoleOfPhysician.pdf)**
+
+📂 **[18.Dietary Requirements For Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/18.%20DietaryRequirementsForHypertension.pdf)**
+
+📂 **[19.Sleep Requirement Of Hypertensive Patient](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/19.%20SleepRequirementOfHypertensivePatient.pdf)**
+
+📂 **[20.Myths about Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/20.%20Myths.pdf)**
+
+📂 **[21.Ayurvedic Perspective of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/21.%20Ayurvedic%20Perspective%20of%20Hypertension.pdf)**
+
+📂 **[22.Homoeopathic Perspective of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/22.%20Homoeopathic%20Perspective%20of%20Hypertension.pdf)**
+
+
 
 ### 📌 **How to Use the Notes Effectively:**  
 1. Click on the links above to open the markdown files.  
