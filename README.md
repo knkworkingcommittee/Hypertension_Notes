@@ -82,9 +82,11 @@ You can access the contents of this repository by clicking on the relevant chapt
 
 📂 **[23.Myths about Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/20.%20Myths.pdf)**
 
-📂 **[24.Ayurvedic Perspective of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/21.%20Ayurvedic%20Perspective%20of%20Hypertension.pdf)**
+📂 **[24.Ayurvedic Perspective of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/24.%20Ayurvedic%20Perspective%20of%20Hypertension.pdf)**
 
-📂 **[22.Homoeopathic Perspective of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/22.%20Homoeopathic%20Perspective%20of%20Hypertension.pdf)**
+📂 **[25.Role of Meditation and Yoga](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/25.%20role%20of%20Meditation%20and%20Yoga.pdf)**
+
+📂 **[26.Homoeopathic Perspective of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/22.%20Homoeopathic%20Perspective%20of%20Hypertension.pdf)**
 
 **<h2>AUDIO LINKS</h2>**
 
