@@ -50,7 +50,7 @@ You can access the contents of this repository by clicking on the relevant chapt
 
 📂 **[7.Types of blood pressure measuring instruments](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/7.%20Types%20of%20blood%20pressure%20measuring%20instruments.pdf)**
 
-📂 **[8.Investigations](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/8.%20Investigations.pdf)**
+📂 **[11.Investigations](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/11.%20Investigations.pdf)**
 
 📂 **[9. ECG And Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/9.%20ECGAndHypertension.pdf)**
 
