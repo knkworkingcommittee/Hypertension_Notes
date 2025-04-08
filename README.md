@@ -42,13 +42,15 @@ You can access the contents of this repository by clicking on the relevant chapt
 
 📂 **[3.Causes of Hypertension.pdf](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/3.%20Causes%20of%20Hypertension.pdf)**
 
-📂 **[4.Causes of Hypertension.pdf](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/3.%20Causes%20of%20Hypertension.pdf)**
+📂 **[4. Incidence & Prevalence of Hypertension in India and  Hypertension in young](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/5.%20Incidence%20&%20Prevalence%20of%20Hypertension%20in%20India%20and%20Hypertension%20in%20young.pdf)**
 
-📂 **[5. Incidence & Prevalence of Hypertension in India and  Hypertension in young](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/5.%20Incidence%20&%20Prevalence%20of%20Hypertension%20in%20India%20and%20Hypertension%20in%20young.pdf)**
+📂 **[5.Pathophysiology of Hypertension.pdf](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/3.%20Pathophysiology%20of%20Hypertension.pdf)**
 
-📂 **[4.Role of Stress In The Pathophysiology Of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/4.%20RoleofStressInThePathophysiologyOfHypertension.pdf)**
+📂 **[6.Role of Stress In The Pathophysiology Of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/4.%20RoleofStressInThePathophysiologyOfHypertension.pdf)**
 
-📂 **[5.Signs And Symptoms Of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/5.%20SignsAndSymptomsOfHyepertension.pdf)**
+📂 **[7.Signs And Symptoms Of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/5.%20SignsAndSymptomsOfHyepertension.pdf)**
+
+📂 **[8.Hypertension and Pheochromocytoma](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/8.%20Hypertension%20and%20Pheochromocytoma.pdf)**
 
 📂 **[6.How To Take BP](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/6.%20HowToTakeBP.pdf)**
 
