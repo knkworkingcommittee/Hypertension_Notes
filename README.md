@@ -42,7 +42,7 @@ You can access the contents of this repository by clicking on the relevant chapt
 
 📂 **[3.Causes of Hypertension.pdf](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/3.%20Causes%20of%20Hypertension.pdf)**
 
-📂 **[4. Incidence & Prevalence of Hypertension in India and  Hypertension in young](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/5.%20Incidence%20&%20Prevalence%20of%20Hypertension%20in%20India%20and%20Hypertension%20in%20young.pdf)**
+📂 **[4. Incidence & Prevalence of Hypertension in India and  Hypertension in young](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/4.%20Incidence%20and%20Prevalence%20of%20Hypertension%20in%20India%20and%20Hypertension%20in%20young.pdf)**
 
 📂 **[5.Pathophysiology of Hypertension.pdf](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/3.%20Pathophysiology%20of%20Hypertension.pdf)**
 
