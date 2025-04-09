@@ -161,12 +161,6 @@ You can access the contents of this repository by clicking on the relevant chapt
 🎵 **[23.Myths about Hypertension] [https://drive.google.com/file/d/1C38lHsU0MdZhsApOcVoQhY71LFcxb_3l/view?usp=drive_link]**
 
 
-🎵 **[24.Ayurvedic Perspective of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/21.%20Ayurvedic%20Perspective%20of%20Hypertension.pdf)**
-
-
-🎵 **[25.Ayurvedic Perspective of Hypertensionrole of Meditation and Yoga]()**
-
-
 🎵 **[26.Homoeopathic Perspective of Hypertension] [https://drive.google.com/file/d/1_9jUlRq1TuqO34zK62u3cFXnD9FlwOrt/view?usp=drive_link]**
 
 
