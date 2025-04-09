@@ -95,11 +95,13 @@ You can access the contents of this repository by clicking on the relevant chapt
 🎵 **[1. Basics of Hypertension >>>>>][(https://drive.google.com/file/d/1cBHyXXw0Tmvd_rNTgypwsdnlTUBavG8z/view?usp=drive_link)]** 
 
 
-🎵 **[2.Story Behind Hypertension.pdf>>>>>][(https://drive.google.com/file/d/1JNfWW4Jm-YQQdv03hQya_-kecswZYvgM/view?usp=drive_link)]**
+🎵 **[2.Story Behind Hypertension>>>>>][(https://drive.google.com/file/d/1JNfWW4Jm-YQQdv03hQya_-kecswZYvgM/view?usp=drive_link)]**
 
 
+🎵 **[3.Causes of Hypertension>>>>>][(https://drive.google.com/file/d/1Q8YI5RMUukNjvDDZat8s1RVct2fT1C_q/view?usp=drive_link)]**
 
 
+🎵 **[4.Incidence and Prevalence of Hypertension in India and  Hypertension in young>>>>>][(https://drive.google.com/file/d/1l70CyvYXF-ri9YvkKwD8tvAjTXivV_rM/view?usp=drive_link)]**
 
 
 🎵 **[5. Pathophysiology of Hypertension >>>>> ][(https://drive.google.com/file/d/1KKGdIOBmkgniBD2gI0Rfv9yM7RT1BsHv/view?usp=drive_link)]**
@@ -109,8 +111,6 @@ You can access the contents of this repository by clicking on the relevant chapt
 
 
 🎵 **[7.Signs And Symptoms Of Hypertension >>>>>] [(https://drive.google.com/file/d/17UCy-Jx6wM8HT9z5iwRftBAhiHEA-TFm/view?usp=drive_link)]**
-
-
 
 
 🎵 **[9.How To Take BP >>>>>] [(https://drive.google.com/file/d/1a3vRSIDCNeqwAdqtjVWt7kiMucPjpuiu/view?usp=drive_link)]**
@@ -161,10 +161,10 @@ You can access the contents of this repository by clicking on the relevant chapt
 🎵 **[24.Ayurvedic Perspective of Hypertension](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/21.%20Ayurvedic%20Perspective%20of%20Hypertension.pdf)**
 
 
+🎵 **[25.Ayurvedic Perspective of Hypertensionrole of Meditation and Yoga]()**
 
 
 🎵 **[26.Homoeopathic Perspective of Hypertension] [https://drive.google.com/file/d/1_9jUlRq1TuqO34zK62u3cFXnD9FlwOrt/view?usp=drive_link]**
-
 
 
 ### 📌 **How to Use the Notes Effectively:**  
