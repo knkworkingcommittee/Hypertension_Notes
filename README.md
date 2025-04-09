@@ -113,6 +113,9 @@ You can access the contents of this repository by clicking on the relevant chapt
 🎵 **[7.Signs And Symptoms Of Hypertension >>>>>] [(https://drive.google.com/file/d/17UCy-Jx6wM8HT9z5iwRftBAhiHEA-TFm/view?usp=drive_link)]**
 
 
+🎵 **[8.Hypertension and Pheochromocytoma>>>>>] [(https://drive.google.com/file/d/176tyuDglZ643wAJzZmmsQF_MfWjde8Vi/view?usp=drive_link)]**
+
+
 🎵 **[9.How To Take BP >>>>>] [(https://drive.google.com/file/d/1a3vRSIDCNeqwAdqtjVWt7kiMucPjpuiu/view?usp=drive_link)]**
 
 
