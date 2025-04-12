@@ -1,5 +1,5 @@
 **<h1>Doctors Fraternity Club Sindhudurg (DFC)</h1>**
-**<h1>Working Committee Kankvali</h1>**
+**<h1>Working Committee Kankavli</h1>**
 ![Hypertension repository](https://github.com/user-attachments/assets/2b022541-950e-45f0-bcea-97597f336ac4)
 
 **<h2>Preface</h2>**
@@ -24,7 +24,7 @@ This initiative not only enhances understanding across different medical systems
 
 **Scientific committee,**
 
-**DFC,Working committee,Kankvali2025.**
+**DFC,Working committee,Kankavli2025.**
 
 
 # 📘 Hypertension - A Comprehensive Guide  
